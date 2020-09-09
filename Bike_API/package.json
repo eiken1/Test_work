@@ -1,0 +1,14 @@
+{
+  "name": "bike_api",
+  "version": "1.0.0",
+  "description": "Test application",
+  "main": "bike.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrik H Eikeland",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
